@@ -1,0 +1,112 @@
+*{
+    padding: 2%;
+    margin: 0%;
+}
+.main
+{
+    padding: 0%;
+    width: 800px;
+    height: 0;
+ margin: 0px auto;
+}
+.rahul{
+    padding: 0%;
+}
+.body
+{
+    
+    width: 700px;
+    height: 800px;
+    border: 1px black;
+    margin: 0 auto;
+}
+.career
+{
+   
+    width: 100%;
+    padding: 0px;
+    background-color: aqua;
+    
+}
+.percent{
+    padding-left: 1;
+}
+.table
+{
+    width: 100%;
+    padding: 1px;
+}
+.border
+{
+    width: 100%;
+    padding: 0px;
+    background-color: aqua;
+   
+}
+.education
+{
+    width: 100%;
+    padding: 0px;
+    background-color: aqua;
+}
+.tech
+{
+    width: 100%;
+    padding: 0px;
+    background-color: aqua;
+}
+.key
+{
+    width: 100%;
+    padding: 0px;
+    background-color: aqua;
+}
+.achiv
+{
+    width: 100%;
+    padding: 0px;
+    background-color: aqua;
+}
+.personal
+{
+    width: 100%;
+    padding: 0px;
+    background-color: aqua;
+}
+.hob
+{
+    width: 100%;
+    padding: 0px;
+    background-color: aqua;
+}
+.father
+{
+    width: 100%;
+    padding: 0px;
+}
+.right
+{
+    text-align: right;
+}
+
+* {
+    box-sizing: border-box;
+   
+  }
+
+  .column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
+  }
+  .cpad{
+      padding-right: 20px;
+      text-align:right ;
+  }
+.row:after {
+
+    content: "";
+    display: table;
+    clear: both;
+  }
